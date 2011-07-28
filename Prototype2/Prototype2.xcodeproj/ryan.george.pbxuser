@@ -1,0 +1,211 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Prototype2AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 312}}";
+			sepNavSelRange = "{149, 0}";
+			sepNavVisRange = "{0, 333}";
+			sepNavWindowFrame = "{{413, 292}, {750, 558}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Prototype2AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 923}}";
+			sepNavSelRange = "{1816, 0}";
+			sepNavVisRange = "{1537, 310}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Prototype2 */ = {
+		activeExec = 0;
+		executables = (
+			D9EF1F8513E1E22B000AFF91 /* Prototype2 */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D9EF1F8513E1E22B000AFF91 /* Prototype2 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Prototype2 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Prototype2 */,
+		);
+		codeSenseManager = D9EF1F9013E1E24A000AFF91 /* Code sense */;
+		executables = (
+			D9EF1F8513E1E22B000AFF91 /* Prototype2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					534,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333574577;
+			PBXWorkspaceStateSaveDate = 333574577;
+		};
+		perUserProjectItems = {
+			D9EF1FB813E1EA3B000AFF91 = D9EF1FB813E1EA3B000AFF91 /* PBXTextBookmark */;
+			D9EF1FB913E1EA3B000AFF91 = D9EF1FB913E1EA3B000AFF91 /* PBXTextBookmark */;
+			D9EF1FC413E1EA6C000AFF91 = D9EF1FC413E1EA6C000AFF91 /* PBXTextBookmark */;
+			D9EF1FCC13E1EC0D000AFF91 = D9EF1FCC13E1EC0D000AFF91 /* PBXTextBookmark */;
+			D9EF1FD013E1F14B000AFF91 = D9EF1FD013E1F14B000AFF91 /* PBXTextBookmark */;
+			D9EF1FD713E1F1B5000AFF91 /* PBXTextBookmark */ = D9EF1FD713E1F1B5000AFF91 /* PBXTextBookmark */;
+			D9EF1FD813E1F1B5000AFF91 /* PBXTextBookmark */ = D9EF1FD813E1F1B5000AFF91 /* PBXTextBookmark */;
+			D9EF1FD913E1F1B5000AFF91 /* PBXTextBookmark */ = D9EF1FD913E1F1B5000AFF91 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D9EF1F8F13E1E24A000AFF91 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D9EF1F8513E1E22B000AFF91 /* Prototype2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Prototype2;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	D9EF1F8F13E1E24A000AFF91 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D9EF1F9013E1E24A000AFF91 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D9EF1F9113E1E256000AFF91 /* CameraViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 221}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 238}";
+		};
+	};
+	D9EF1F9213E1E256000AFF91 /* CameraViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 728}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 597}";
+		};
+	};
+	D9EF1FB813E1EA3B000AFF91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9EF1F9213E1E256000AFF91 /* CameraViewController.m */;
+		name = "CameraViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 597;
+		vrLoc = 0;
+	};
+	D9EF1FB913E1EA3B000AFF91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9EF1F9113E1E256000AFF91 /* CameraViewController.h */;
+		name = "CameraViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 238;
+		vrLoc = 0;
+	};
+	D9EF1FC413E1EA6C000AFF91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Prototype2AppDelegate.h */;
+		name = "Prototype2AppDelegate.h: 7";
+		rLen = 0;
+		rLoc = 149;
+		rType = 0;
+		vrLen = 456;
+		vrLoc = 0;
+	};
+	D9EF1FCC13E1EC0D000AFF91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Prototype2AppDelegate.m */;
+		name = "Prototype2AppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 522;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 291;
+	};
+	D9EF1FD013E1F14B000AFF91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Prototype2AppDelegate.m */;
+		name = "Prototype2AppDelegate.m: 65";
+		rLen = 0;
+		rLoc = 1816;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 1537;
+	};
+	D9EF1FD713E1F1B5000AFF91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Prototype2AppDelegate.m */;
+		name = "Prototype2AppDelegate.m: 65";
+		rLen = 0;
+		rLoc = 1816;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 1537;
+	};
+	D9EF1FD813E1F1B5000AFF91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Prototype2AppDelegate.h */;
+		name = "Prototype2AppDelegate.h: 7";
+		rLen = 0;
+		rLoc = 149;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 0;
+	};
+	D9EF1FD913E1F1B5000AFF91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9EF1F9113E1E256000AFF91 /* CameraViewController.h */;
+		name = "CameraViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 238;
+		vrLoc = 0;
+	};
+}
