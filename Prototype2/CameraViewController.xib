@@ -460,6 +460,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">student1</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -482,6 +483,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">student2</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -501,6 +503,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">student3</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -699,6 +702,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">WaterColors</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -718,6 +722,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">WindStudy</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -737,6 +742,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">SelfPortrait</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -756,6 +762,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">BreakDancing</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -775,6 +782,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">ButterFlyStudy</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -979,6 +987,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">Math</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -998,6 +1007,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">Lang. Arts</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -1017,6 +1027,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">PhysDev &amp; Health</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -1036,6 +1047,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">Foreign Lang.</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -1055,6 +1067,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">Fine Arts</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -1659,6 +1672,123 @@
 						<reference key="destination" ref="31346907"/>
 					</object>
 					<int key="connectionID">99</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addStudent:</string>
+						<reference key="source" ref="429220930"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">151</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addStudent:</string>
+						<reference key="source" ref="690257419"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">152</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addStudent:</string>
+						<reference key="source" ref="89589911"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">153</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addContent:</string>
+						<reference key="source" ref="736368644"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">154</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addContent:</string>
+						<reference key="source" ref="745966525"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">155</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addContent:</string>
+						<reference key="source" ref="311208400"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">156</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addContent:</string>
+						<reference key="source" ref="74934285"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">157</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addContent:</string>
+						<reference key="source" ref="610714355"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">158</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addProject:</string>
+						<reference key="source" ref="738259454"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">159</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addProject:</string>
+						<reference key="source" ref="349835131"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">160</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addProject:</string>
+						<reference key="source" ref="879103846"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">161</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addProject:</string>
+						<reference key="source" ref="870254258"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">162</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addProject:</string>
+						<reference key="source" ref="562581846"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">163</int>
 				</object>
 			</object>
 			<object class="IBMutableOrderedSet" key="objectRecords">
@@ -2598,7 +2728,7 @@
 				</object>
 			</object>
 			<nil key="sourceID"/>
-			<int key="maxID">150</int>
+			<int key="maxID">163</int>
 		</object>
 		<object class="IBClassDescriber" key="IBDocument.Classes">
 			<object class="NSMutableArray" key="referencedPartialClassDescriptions">
@@ -2610,6 +2740,9 @@
 						<bool key="EncodedWithXMLCoder">YES</bool>
 						<object class="NSArray" key="dict.sortedKeys">
 							<bool key="EncodedWithXMLCoder">YES</bool>
+							<string>addContent:</string>
+							<string>addProject:</string>
+							<string>addStudent:</string>
 							<string>capturePhoto:</string>
 							<string>showContent:</string>
 							<string>showProjects:</string>
@@ -2619,6 +2752,9 @@
 						</object>
 						<object class="NSMutableArray" key="dict.values">
 							<bool key="EncodedWithXMLCoder">YES</bool>
+							<string>id</string>
+							<string>id</string>
+							<string>id</string>
 							<string>id</string>
 							<string>id</string>
 							<string>id</string>
@@ -2631,6 +2767,9 @@
 						<bool key="EncodedWithXMLCoder">YES</bool>
 						<object class="NSArray" key="dict.sortedKeys">
 							<bool key="EncodedWithXMLCoder">YES</bool>
+							<string>addContent:</string>
+							<string>addProject:</string>
+							<string>addStudent:</string>
 							<string>capturePhoto:</string>
 							<string>showContent:</string>
 							<string>showProjects:</string>
@@ -2640,6 +2779,18 @@
 						</object>
 						<object class="NSMutableArray" key="dict.values">
 							<bool key="EncodedWithXMLCoder">YES</bool>
+							<object class="IBActionInfo">
+								<string key="name">addContent:</string>
+								<string key="candidateClassName">id</string>
+							</object>
+							<object class="IBActionInfo">
+								<string key="name">addProject:</string>
+								<string key="candidateClassName">id</string>
+							</object>
+							<object class="IBActionInfo">
+								<string key="name">addStudent:</string>
+								<string key="candidateClassName">id</string>
+							</object>
 							<object class="IBActionInfo">
 								<string key="name">capturePhoto:</string>
 								<string key="candidateClassName">id</string>

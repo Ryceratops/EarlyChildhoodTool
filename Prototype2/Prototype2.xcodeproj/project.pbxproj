@@ -13,7 +13,7 @@
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
-		D9EF1F9413E1E256000AFF91 /* CameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D9EF1F9213E1E256000AFF91 /* CameraViewController.m */; };
+		D9BEA51313E351AE0011BCF2 /* CameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D9EF1F9213E1E256000AFF91 /* CameraViewController.m */; };
 		D9EF1F9513E1E256000AFF91 /* CameraViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D9EF1F9313E1E256000AFF91 /* CameraViewController.xib */; };
 		D9EF208813E21968000AFF91 /* smiley.png in Resources */ = {isa = PBXBuildFile; fileRef = D9EF208713E21968000AFF91 /* smiley.png */; };
 /* End PBXBuildFile section */
@@ -174,7 +174,7 @@
 			files = (
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* Prototype2AppDelegate.m in Sources */,
-				D9EF1F9413E1E256000AFF91 /* CameraViewController.m in Sources */,
+				D9BEA51313E351AE0011BCF2 /* CameraViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

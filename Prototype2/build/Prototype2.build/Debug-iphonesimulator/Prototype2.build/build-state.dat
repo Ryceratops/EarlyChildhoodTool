@@ -1,11 +1,12 @@
 TPrototype2
 v7
 r0
-t333581434.597289
+t333664522.980189
 cCheck dependencies
 cProcessInfoPlistFile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Info.plist Prototype2-Info.plist
 cCompileXIB /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/MainWindow.xib
 cCompileXIB /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/CameraViewController.xib
+cCpResource build/Debug-iphonesimulator/Prototype2.app/smiley.png smiley.png
 cProcessPCH /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-dggxuauxhxgeftcqrvpaglspwthp/Prototype2_Prefix.pch.gch Prototype2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/main.o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/Prototype2AppDelegate.o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
@@ -45,26 +46,26 @@ t1297487363
 s7759984
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/CameraViewController.h
-c000000004E31D42400000000000007E9
-t1311888420
-s2025
+c000000004E3317470000000000000A5E
+t1311971143
+s2654
 i<UIKit/UIKit.h>
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/CameraViewController.xib
-c000000004E31D4F8000000000000FA97
-t1311888632
-s64151
+c000000004E3318950000000000024293
+t1311971477
+s148115
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.h
-c000000004E31D42400000000000007E9
-t1311888420
-s2025
+c000000004E3317470000000000000A5E
+t1311971143
+s2654
 i<UIKit/UIKit.h>
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m
-c000000004E31D3AF0000000000000E15
-t1311888303
-s3605
+c000000004E3319890000000000001776
+t1311971721
+s6006
 i"CameraViewController.h"
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.h
@@ -74,8 +75,8 @@ s463
 i<UIKit/UIKit.h>
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m
-c000000004E31CCE60000000000000737
-t1311886566
+c000000004E32F0E60000000000000737
+t1311961318
 s1847
 i"Prototype2AppDelegate.h"
 i"CameraViewController.h"
@@ -93,19 +94,19 @@ i<Foundation/Foundation.h>
 i<UIKit/UIKit.h>
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app
-t1311888634
-s238
+t1311971722
+s272
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app.dSYM
-t1311888421
+t1311971722
 s102
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/CameraViewController.nib
-t1311888634
-s9880
+t1311971483
+s22529
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Info.plist
-t1311878678
+t1311957917
 s810
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/MainWindow.nib
@@ -113,16 +114,20 @@ t1311878679
 s1535
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/PkgInfo
-t1311878678
+t1311957917
 s8
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype2
-t1311888421
-s28456
+t1311971722
+s35884
+
+N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/smiley.png
+t1311957917
+s40081
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/CameraViewController.o
-t1311888421
-s68052
+t1311971722
+s82836
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/Prototype2.LinkFileList
 c000000004E31C2230000000000000219
@@ -130,11 +135,11 @@ t1311883811
 s537
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/Prototype2AppDelegate.o
-t1311888421
-s52904
+t1311971484
+s53120
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/main.o
-t1311883813
+t1311957920
 s6392
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m
@@ -142,6 +147,11 @@ c000000004E31AAAB000000000000016B
 t1311877803
 s363
 i<UIKit/UIKit.h>
+
+N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/smiley.png
+c000000004E31E1DF0000000000009C91
+t1311891935
+s40081
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/CameraViewController.h
 c000000004E31AAD600000000000000EE
@@ -253,21 +263,21 @@ t1311878679
 s15814064
 
 N/var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-dggxuauxhxgeftcqrvpaglspwthp/Prototype2_Prefix.pch.gch
-t1311883813
+t1311957920
 s15814064
 
 NPrototype2-Info.plist
-c000000004E31AAAB00000000000004D6
-t1311877803
-s1238
+c000000004E31DE4B00000000000004AA
+t1311891019
+s1194
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies333581434#333581434#0(0"0(0#1#0"8618470688#0"0#
+lSLF07#2@18"Check dependencies333664522#333664522#0(0"0(0#1#0"8615080960#0"0#
 
 CCompileC build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/CameraViewController.o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s333581221.526192
-e333581221.592758
+s333664522.828624
+e333664522.947117
 r1
 xCompileC
 xbuild/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/CameraViewController.o
@@ -276,9 +286,9 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-o/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m:151: warning: property 'userSelect' requires method '-userSelect' to be defined - use @synthesize, @dynamic or provide a method implementation
-o/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m:151: warning: property 'userSelect' requires the method 'setUserSelect:' to be defined - use @synthesize, @dynamic or provide a method implementation
-lSLF07#2@120"Compile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m333581221#333581221#0(519"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m:151: warning: property 'userSelect' requires method '-userSelect' to be defined - use @synthesize, @dynamic or provide a method implementation/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m:151: warning: property 'userSelect' requires the method 'setUserSelect:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@128"Property 'userSelect' requires method '-userSelect' to be defined - use @synthesize, @dynamic or provide a method implementation333581221#0#256#0(6@112"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m333581103#151#0#151#0#0"0(22@135"Property 'userSelect' requires the method 'setUserSelect:' to be defined - use @synthesize, @dynamic or provide a method implementation333581221#256#263#0(6@112"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m333581103#151#0#151#0#0"0(0#0#112"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m8617979904#2457"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources/i386 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-dggxuauxhxgeftcqrvpaglspwthp/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/CameraViewController.o0#
+o/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m: In function '-[CameraViewController capturePhoto:]':
+o/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m:104: warning: class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol
+lSLF07#2@120"Compile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m333664522#333664522#0(388"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m: In function '-[CameraViewController capturePhoto:]':/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m:104: warning: class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol1(22@93"Class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol333664522#167#221#0(6@112"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m333664521#104#0#104#0#45"class '*' does not implement the '*' protocol0(0#0#112"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m8613444032#2457"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources/i386 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-dggxuauxhxgeftcqrvpaglspwthp/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/CameraViewController.o0#
 
 CCompileC build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/CameraViewController.o /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/CameraViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -297,8 +307,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@101"Compile /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/Classes/../CameraViewController.m333571479#333571479#0(0"0(0#0#93"/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/Classes/../CameraViewController.m8607918400#2248"    cd /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/include -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources/i386 -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-acbjifpcyylhlcgkgkvdbdjyhlbq/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/Classes/../CameraViewController.m -o /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/CameraViewController.o0#
 
 CCompileC build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/Prototype2AppDelegate.o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s333581221.525540
-e333581221.574175
+s333664284.177202
+e333664284.226032
 r1
 xCompileC
 xbuild/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/Prototype2AppDelegate.o
@@ -307,7 +317,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@118"Compile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m333581221#333581221#0(0"0(0#0#110"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m8618243904#2456"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources/i386 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-dggxuauxhxgeftcqrvpaglspwthp/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/Prototype2AppDelegate.o0#
+lSLF07#2@118"Compile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m333664284#333664284#0(0"0(0#0#110"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m8613087104#2456"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources/i386 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-dggxuauxhxgeftcqrvpaglspwthp/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/Prototype2AppDelegate.o0#
 
 CCompileC build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/Prototype2AppDelegate.o /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/Classes/Prototype2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s333573133.545389
@@ -323,8 +333,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@99"Compile /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/Classes/Prototype2AppDelegate.m333573133#333573133#0(0"0(0#0#91"/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/Classes/Prototype2AppDelegate.m8616420000#2247"    cd /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/include -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources/i386 -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-acbjifpcyylhlcgkgkvdbdjyhlbq/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/Classes/Prototype2AppDelegate.m -o /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/Prototype2AppDelegate.o0#
 
 CCompileC build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/main.o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s333576613.798623
-e333576613.860871
+s333650720.485014
+e333650720.597927
 r1
 xCompileC
 xbuild/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/main.o
@@ -333,7 +343,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@93"Compile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m333576613#333576613#0(0"0(0#0#85"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m8599792256#2414"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources/i386 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-dggxuauxhxgeftcqrvpaglspwthp/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/main.o0#
+lSLF07#2@93"Compile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m333650720#333650720#0(0"0(0#0#85"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m8608534208#2414"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources/i386 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-dggxuauxhxgeftcqrvpaglspwthp/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/main.o0#
 
 CCompileC build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/main.o /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s333571479.720324
@@ -349,12 +359,12 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@74"Compile /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/main.m333571479#333571479#0(0"0(0#0#66"/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/main.m8607206688#2205"    cd /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/include -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources/i386 -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-acbjifpcyylhlcgkgkvdbdjyhlbq/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/main.m -o /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/main.o0#
 
 CCompileXIB /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/CameraViewController.xib
-s333581434.117711
-e333581434.594834
+s333664283.447449
+e333664284.176966
 r1
 xCompileXIB
 x/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/CameraViewController.xib
-lSLF07#2@35"CompileXIB CameraViewController.xib333581434#333581434#0(0"0(0#0#103"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/CameraViewController.xib8614723968#713"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/CameraViewController.nib /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/CameraViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+lSLF07#2@35"CompileXIB CameraViewController.xib333664283#333664284#0(0"0(0#0#103"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/CameraViewController.xib8613148064#713"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/CameraViewController.nib /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/CameraViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
 
 CCompileXIB /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/MainWindow.xib
 r0
@@ -375,14 +385,23 @@ xCompileXIB
 x/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/MainWindow.xib
 lSLF07#2@25"CompileXIB MainWindow.xib333571478#333571479#0(0"0(0#0#74"/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/MainWindow.xib8607730336#636"    cd /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/Prototype2.app/MainWindow.nib /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
 
+CCpResource build/Debug-iphonesimulator/Prototype2.app/smiley.png smiley.png
+s333650717.773851
+e333650717.900112
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Prototype2.app/smiley.png
+xsmiley.png
+lSLF07#2@15"Copy smiley.png333650717#333650717#0(0"0(0#0#89"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/smiley.png8608404352#591"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/smiley.png /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app0#
+
 CGenerateDSYMFile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app.dSYM /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype2
-s333581221.609995
-e333581221.621370
+s333664522.966574
+e333664522.978245
 r1
 xGenerateDSYMFile
 x/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app.dSYM
 x/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype2
-lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Prototype2.app.dSYM build/Debug-iphonesimulator/Prototype2.app/Prototype2333581221#333581221#0(0"0(0#0#132"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype28618145536#512"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype2 -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app.dSYM0#
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Prototype2.app.dSYM build/Debug-iphonesimulator/Prototype2.app/Prototype2333664522#333664522#0(0"0(0#0#132"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype28614900672#512"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype2 -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app.dSYM0#
 
 CGenerateDSYMFile /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/Prototype2.app.dSYM /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype2
 s333573133.652117
@@ -394,14 +413,14 @@ x/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphones
 lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Prototype2.app.dSYM build/Debug-iphonesimulator/Prototype2.app/Prototype2333573133#333573133#0(0"0(0#0#113"/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype28616610336#455"    cd /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype2 -o /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/Prototype2.app.dSYM0#
 
 CLd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype2 normal i386
-s333581221.592828
-e333581221.609916
+s333664522.947192
+e333664522.966498
 r1
 xLd
 x/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype2
 xnormal
 xi386
-lSLF07#2@137"Link /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype2333581221#333581221#0(0"0(0#0#0"8617699424#1115"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator -filelist /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/Prototype2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype20#
+lSLF07#2@137"Link /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype2333664522#333664522#0(0"0(0#0#0"8615734976#1115"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator -filelist /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/Prototype2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype20#
 
 CLd /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype2 normal i386
 s333573133.634014
@@ -414,7 +433,13 @@ xi386
 lSLF07#2@118"Link /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype2333573133#333573133#0(0"0(0#0#0"8616804480#1020"    cd /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator -F/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator -filelist /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Objects-normal/i386/Prototype2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Prototype20#
 
 CProcessInfoPlistFile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Info.plist Prototype2-Info.plist
-r0
+s333650717.762102
+e333650717.773283
+r1
+xProcessInfoPlistFile
+x/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Info.plist
+xPrototype2-Info.plist
+lSLF07#2@29"Process Prototype2-Info.plist333650717#333650717#0(0"0(0#0#100"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Prototype2-Info.plist8608861312#608"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Prototype2-Info.plist -genpkginfo /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Info.plist0#
 
 CProcessInfoPlistFile /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/Prototype2.app/Info.plist Prototype2-Info.plist
 s333571478.742567
@@ -439,8 +464,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@32"Precompile Prototype2_Prefix.pch333571479#333571479#0(0"0(0#0#81"/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/Prototype2_Prefix.pch8607595808#2073"    cd /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/include -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources/i386 -I/Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources -c /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/Prototype2_Prefix.pch -o /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-acbjifpcyylhlcgkgkvdbdjyhlbq/Prototype2_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-dggxuauxhxgeftcqrvpaglspwthp/Prototype2_Prefix.pch.gch Prototype2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s333576612.398315
-e333576613.798509
+s333650719.077173
+e333650720.484880
 r1
 xProcessPCH
 x/var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-dggxuauxhxgeftcqrvpaglspwthp/Prototype2_Prefix.pch.gch
@@ -449,15 +474,15 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@32"Precompile Prototype2_Prefix.pch333576612#333576613#0(0"0(0#0#100"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Prototype2_Prefix.pch8607697120#2263"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources/i386 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Prototype2_Prefix.pch -o /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-dggxuauxhxgeftcqrvpaglspwthp/Prototype2_Prefix.pch.gch0#
+lSLF07#2@32"Precompile Prototype2_Prefix.pch333650719#333650720#0(0"0(0#0#100"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Prototype2_Prefix.pch8596782944#2263"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources/i386 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphonesimulator/Prototype2.build/DerivedSources -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Prototype2_Prefix.pch -o /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-dggxuauxhxgeftcqrvpaglspwthp/Prototype2_Prefix.pch.gch0#
 
 CTouch /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app
-s333581434.595478
-e333581434.597264
+s333664522.978309
+e333664522.980165
 r1
 xTouch
 x/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app
-lSLF07#2@127"Touch /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app333581434#333581434#0(0"0(0#0#0"8618474880#361"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app0#
+lSLF07#2@127"Touch /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app333664522#333664522#0(0"0(0#0#0"8614696480#361"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphonesimulator/Prototype2.app0#
 
 CTouch /Volumes/ryan.george/Users/ryan.george/Documents/Prototype2/build/Debug-iphonesimulator/Prototype2.app
 s333573133.666335

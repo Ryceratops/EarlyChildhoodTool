@@ -26,7 +26,8 @@
 			studentScroll,
 			projectScroll,	
 			contentScroll,
-			summaryScroll;
+			summaryScroll,
+			userSelect;
 
 -(void)viewDidLoad
 {
@@ -41,7 +42,61 @@
 	
 	[summaryScroll setScrollEnabled:YES];
 	[summaryScroll setContentSize:CGSizeMake(700, 149)];
+	
+	spacingStudentVariable = 0;
+	spacingProjectVariable = 0;
+	spacingContentVariable = 0;
 }
+
+-(IBAction)addStudent:(id)sender
+{
+	NSString *title = [sender titleForState:UIControlStateNormal];
+	NSString *newText = [[NSString alloc] initWithFormat:@"%@", title];
+	UILabel *student1 = [[UILabel alloc] initWithFrame:CGRectMake((0 + spacingStudentVariable), 50, 110, 30)];
+	student1.adjustsFontSizeToFitWidth = YES;
+	student1.backgroundColor = [UIColor clearColor];
+	student1.numberOfLines = 1;
+	student1.text = newText;
+	student1.textAlignment = UITextAlignmentCenter;
+	[summaryScroll addSubview:student1];
+	spacingStudentVariable += 100;
+	[newText release];
+	[student1 release];
+}
+
+-(IBAction)addProject:(id)sender
+{
+	NSString *title = [sender titleForState:UIControlStateNormal];
+	NSString *newText = [[NSString alloc] initWithFormat:@"%@", title];
+	UILabel *newProject = [[UILabel alloc] initWithFrame:CGRectMake((0 + spacingProjectVariable), 70, 110, 30)];
+	newProject.adjustsFontSizeToFitWidth = YES;
+	newProject.backgroundColor = [UIColor clearColor];
+	newProject.numberOfLines =1;
+	newProject.text = newText;
+	newProject.textAlignment = UITextAlignmentCenter;
+	[summaryScroll addSubview:newProject];
+	spacingProjectVariable += 100;
+	[newText release];
+	[newProject release];
+}
+
+-(IBAction)addContent:(id)sender
+{
+	NSString *title = [sender titleForState:UIControlStateNormal];
+	NSString *newText = [[NSString alloc] initWithFormat:@"%@", title];
+	UILabel *newContent = [[UILabel alloc] initWithFrame:CGRectMake((0 + spacingContentVariable), 90, 110, 30)];
+	newContent.adjustsFontSizeToFitWidth = YES;
+	newContent.backgroundColor = [UIColor clearColor];
+	newContent.numberOfLines =1;
+	newContent.text = newText;
+	newContent.textAlignment = UITextAlignmentCenter;
+	[summaryScroll addSubview:newContent];
+	spacingContentVariable += 100;
+	[newText release];
+	[newContent release];
+}
+
+
 
 -(IBAction) capturePhoto:(id) sender
 {
@@ -101,7 +156,7 @@
 }
 
 -(IBAction) showStudents:(id) sender
-{
+{	
 	[studentView setHidden:NO];
 	[projectView setHidden:YES];
 	[contentView setHidden:YES];

@@ -36,6 +36,10 @@
 	IBOutlet UIScrollView *projectScroll;
 	IBOutlet UIScrollView *contentScroll;
 	IBOutlet UIScrollView *summaryScroll;
+	
+	float spacingStudentVariable;
+	float spacingProjectVariable;
+	float spacingContentVariable;
 }
 
 @property (nonatomic, retain) IBOutlet UIImageView *mainImage;
@@ -66,5 +70,9 @@
 -(IBAction) showContent:(id) sender;
 -(IBAction) showSummary:(id) sender;
 -(IBAction) toggleUser:(id) sender;
+
+-(IBAction)addStudent:(id) sender;
+-(IBAction)addProject:(id)sender;
+-(IBAction)addContent:(id)sender;
 
 @end
