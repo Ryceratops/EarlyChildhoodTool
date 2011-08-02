@@ -13,6 +13,22 @@
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		D92EE96E13E723D400B6FAD1 /* MainMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D92EE96C13E723D400B6FAD1 /* MainMenuViewController.m */; };
+		D92EE96F13E723D400B6FAD1 /* MainMenuViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D92EE96D13E723D400B6FAD1 /* MainMenuViewController.xib */; };
+		D92EE97313E723E900B6FAD1 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D92EE97113E723E900B6FAD1 /* SettingsViewController.m */; };
+		D92EE97413E723E900B6FAD1 /* SettingsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D92EE97213E723E900B6FAD1 /* SettingsViewController.xib */; };
+		D92EE98C13E7247200B6FAD1 /* 469269248383486776.png in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98013E7247200B6FAD1 /* 469269248383486776.png */; };
+		D92EE98D13E7247200B6FAD1 /* CHILDREN.png in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98113E7247200B6FAD1 /* CHILDREN.png */; };
+		D92EE98E13E7247200B6FAD1 /* Classes.png in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98213E7247200B6FAD1 /* Classes.png */; };
+		D92EE98F13E7247200B6FAD1 /* columbia-logo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98313E7247200B6FAD1 /* columbia-logo.jpg */; };
+		D92EE99013E7247200B6FAD1 /* ContentAreas.png in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98413E7247200B6FAD1 /* ContentAreas.png */; };
+		D92EE99113E7247200B6FAD1 /* Documentation.png in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98513E7247200B6FAD1 /* Documentation.png */; };
+		D92EE99213E7247200B6FAD1 /* Projects.png in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98613E7247200B6FAD1 /* Projects.png */; };
+		D92EE99313E7247200B6FAD1 /* Reports.png in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98713E7247200B6FAD1 /* Reports.png */; };
+		D92EE99413E7247200B6FAD1 /* Settings.png in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98813E7247200B6FAD1 /* Settings.png */; };
+		D92EE99513E7247200B6FAD1 /* StudentPortfolio.png in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98913E7247200B6FAD1 /* StudentPortfolio.png */; };
+		D92EE99613E7247200B6FAD1 /* ToBeFilled.png in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98A13E7247200B6FAD1 /* ToBeFilled.png */; };
+		D92EE99713E7247200B6FAD1 /* video.gif in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98B13E7247200B6FAD1 /* video.gif */; };
 		D9BEA51313E351AE0011BCF2 /* CameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D9EF1F9213E1E256000AFF91 /* CameraViewController.m */; };
 		D9EF1F9513E1E256000AFF91 /* CameraViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D9EF1F9313E1E256000AFF91 /* CameraViewController.xib */; };
 		D9EF208813E21968000AFF91 /* smiley.png in Resources */ = {isa = PBXBuildFile; fileRef = D9EF208713E21968000AFF91 /* smiley.png */; };
@@ -21,7 +37,7 @@
 /* Begin PBXFileReference section */
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D3623240D0F684500981E51 /* Prototype2AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Prototype2AppDelegate.h; sourceTree = "<group>"; };
-		1D3623250D0F684500981E51 /* Prototype2AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Prototype2AppDelegate.m; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* Prototype2AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Prototype2AppDelegate.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.c; };
 		1D6058910D05DD3D006BFB54 /* Prototype2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Prototype2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -29,6 +45,24 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* Prototype2_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Prototype2_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Prototype2-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Prototype2-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		D92EE96B13E723D400B6FAD1 /* MainMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMenuViewController.h; sourceTree = "<group>"; };
+		D92EE96C13E723D400B6FAD1 /* MainMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainMenuViewController.m; sourceTree = "<group>"; };
+		D92EE96D13E723D400B6FAD1 /* MainMenuViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainMenuViewController.xib; path = Classes/MainMenuViewController.xib; sourceTree = "<group>"; };
+		D92EE97013E723E900B6FAD1 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		D92EE97113E723E900B6FAD1 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
+		D92EE97213E723E900B6FAD1 /* SettingsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SettingsViewController.xib; path = Classes/SettingsViewController.xib; sourceTree = "<group>"; };
+		D92EE98013E7247200B6FAD1 /* 469269248383486776.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 469269248383486776.png; path = ../../../Desktop/Icons/469269248383486776.png; sourceTree = SOURCE_ROOT; };
+		D92EE98113E7247200B6FAD1 /* CHILDREN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CHILDREN.png; path = ../../../Desktop/Icons/CHILDREN.png; sourceTree = SOURCE_ROOT; };
+		D92EE98213E7247200B6FAD1 /* Classes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Classes.png; path = ../../../Desktop/Icons/Classes.png; sourceTree = SOURCE_ROOT; };
+		D92EE98313E7247200B6FAD1 /* columbia-logo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "columbia-logo.jpg"; path = "../../../Desktop/Icons/columbia-logo.jpg"; sourceTree = SOURCE_ROOT; };
+		D92EE98413E7247200B6FAD1 /* ContentAreas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ContentAreas.png; path = ../../../Desktop/Icons/ContentAreas.png; sourceTree = SOURCE_ROOT; };
+		D92EE98513E7247200B6FAD1 /* Documentation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Documentation.png; path = ../../../Desktop/Icons/Documentation.png; sourceTree = SOURCE_ROOT; };
+		D92EE98613E7247200B6FAD1 /* Projects.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Projects.png; path = ../../../Desktop/Icons/Projects.png; sourceTree = SOURCE_ROOT; };
+		D92EE98713E7247200B6FAD1 /* Reports.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Reports.png; path = ../../../Desktop/Icons/Reports.png; sourceTree = SOURCE_ROOT; };
+		D92EE98813E7247200B6FAD1 /* Settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Settings.png; path = ../../../Desktop/Icons/Settings.png; sourceTree = SOURCE_ROOT; };
+		D92EE98913E7247200B6FAD1 /* StudentPortfolio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = StudentPortfolio.png; path = ../../../Desktop/Icons/StudentPortfolio.png; sourceTree = SOURCE_ROOT; };
+		D92EE98A13E7247200B6FAD1 /* ToBeFilled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ToBeFilled.png; path = ../../../Desktop/Icons/ToBeFilled.png; sourceTree = SOURCE_ROOT; };
+		D92EE98B13E7247200B6FAD1 /* video.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = video.gif; path = ../../../Desktop/Icons/video.gif; sourceTree = SOURCE_ROOT; };
 		D9EF1F9113E1E256000AFF91 /* CameraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CameraViewController.h; path = ../CameraViewController.h; sourceTree = "<group>"; };
 		D9EF1F9213E1E256000AFF91 /* CameraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CameraViewController.m; path = ../CameraViewController.m; sourceTree = "<group>"; };
 		D9EF1F9313E1E256000AFF91 /* CameraViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CameraViewController.xib; sourceTree = "<group>"; };
@@ -56,6 +90,10 @@
 				1D3623250D0F684500981E51 /* Prototype2AppDelegate.m */,
 				D9EF1F9113E1E256000AFF91 /* CameraViewController.h */,
 				D9EF1F9213E1E256000AFF91 /* CameraViewController.m */,
+				D92EE96B13E723D400B6FAD1 /* MainMenuViewController.h */,
+				D92EE96C13E723D400B6FAD1 /* MainMenuViewController.m */,
+				D92EE97013E723E900B6FAD1 /* SettingsViewController.h */,
+				D92EE97113E723E900B6FAD1 /* SettingsViewController.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -92,7 +130,10 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				D92EE97D13E7246500B6FAD1 /* Images */,
 				D9EF208713E21968000AFF91 /* smiley.png */,
+				D92EE97213E723E900B6FAD1 /* SettingsViewController.xib */,
+				D92EE96D13E723D400B6FAD1 /* MainMenuViewController.xib */,
 				D9EF1F9313E1E256000AFF91 /* CameraViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* Prototype2-Info.plist */,
@@ -108,6 +149,25 @@
 				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D92EE97D13E7246500B6FAD1 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				D92EE98013E7247200B6FAD1 /* 469269248383486776.png */,
+				D92EE98113E7247200B6FAD1 /* CHILDREN.png */,
+				D92EE98213E7247200B6FAD1 /* Classes.png */,
+				D92EE98313E7247200B6FAD1 /* columbia-logo.jpg */,
+				D92EE98413E7247200B6FAD1 /* ContentAreas.png */,
+				D92EE98513E7247200B6FAD1 /* Documentation.png */,
+				D92EE98613E7247200B6FAD1 /* Projects.png */,
+				D92EE98713E7247200B6FAD1 /* Reports.png */,
+				D92EE98813E7247200B6FAD1 /* Settings.png */,
+				D92EE98913E7247200B6FAD1 /* StudentPortfolio.png */,
+				D92EE98A13E7247200B6FAD1 /* ToBeFilled.png */,
+				D92EE98B13E7247200B6FAD1 /* video.gif */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -162,6 +222,20 @@
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				D9EF1F9513E1E256000AFF91 /* CameraViewController.xib in Resources */,
 				D9EF208813E21968000AFF91 /* smiley.png in Resources */,
+				D92EE96F13E723D400B6FAD1 /* MainMenuViewController.xib in Resources */,
+				D92EE97413E723E900B6FAD1 /* SettingsViewController.xib in Resources */,
+				D92EE98C13E7247200B6FAD1 /* 469269248383486776.png in Resources */,
+				D92EE98D13E7247200B6FAD1 /* CHILDREN.png in Resources */,
+				D92EE98E13E7247200B6FAD1 /* Classes.png in Resources */,
+				D92EE98F13E7247200B6FAD1 /* columbia-logo.jpg in Resources */,
+				D92EE99013E7247200B6FAD1 /* ContentAreas.png in Resources */,
+				D92EE99113E7247200B6FAD1 /* Documentation.png in Resources */,
+				D92EE99213E7247200B6FAD1 /* Projects.png in Resources */,
+				D92EE99313E7247200B6FAD1 /* Reports.png in Resources */,
+				D92EE99413E7247200B6FAD1 /* Settings.png in Resources */,
+				D92EE99513E7247200B6FAD1 /* StudentPortfolio.png in Resources */,
+				D92EE99613E7247200B6FAD1 /* ToBeFilled.png in Resources */,
+				D92EE99713E7247200B6FAD1 /* video.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -175,6 +249,8 @@
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* Prototype2AppDelegate.m in Sources */,
 				D9BEA51313E351AE0011BCF2 /* CameraViewController.m in Sources */,
+				D92EE96E13E723D400B6FAD1 /* MainMenuViewController.m in Sources */,
+				D92EE97313E723E900B6FAD1 /* SettingsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

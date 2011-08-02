@@ -7,7 +7,7 @@
 //
 
 #import "Prototype2AppDelegate.h"
-#import "CameraViewController.h"
+#import "MainMenuViewController.h"
 
 @implementation Prototype2AppDelegate
 
@@ -20,13 +20,18 @@
 -(void)applicationDidFinishLaunching:(UIApplication *)application
 {
 	[window makeKeyAndVisible];
-	CameraViewController *cameraView = [[CameraViewController alloc] initWithNibName:@"CameraViewController" bundle:nil];
-	self.firstView = cameraView;
+	MainMenuViewController *mainView = [[MainMenuViewController alloc] initWithNibName:@"MainMenuViewController" bundle:nil];
+	self.firstView = mainView;
 	[window addSubview:firstView.view];
 	
-	[cameraView release];
+	[mainView release];
 }
 
+-(void)switchView:(UIView *)view1 toView:(UIView *)view2
+{
+	[view1 removeFromSuperview];
+	[window addSubview:view2];
+}
 
 - (void)applicationWillResignActive:(UIApplication *)application {
     /*

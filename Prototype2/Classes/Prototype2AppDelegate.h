@@ -8,16 +8,18 @@
 
 #import <UIKit/UIKit.h>
 
-@class CameraViewController;
+@class MainMenuViewController;
 
 @interface Prototype2AppDelegate : NSObject <UIApplicationDelegate> 
 {
     UIWindow *window;
-	CameraViewController *firstView;
+	MainMenuViewController *firstView;
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
-@property (retain, nonatomic) CameraViewController *firstView;
+@property (retain, nonatomic) MainMenuViewController *firstView;
+
+-(void)switchView:(UIView *)view1 toView:(UIView *)view2;
 
 @end
 

@@ -1,7 +1,7 @@
 TPrototype2
 v7
 r0
-t333666322.342466
+t333912461.599841
 cCheck dependencies
 cCpResource build/Debug-iphoneos/Prototype2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
 cProcessInfoPlistFile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Info.plist Prototype2-Info.plist
@@ -82,8 +82,8 @@ s2654
 i<UIKit/UIKit.h>
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m
-c000000004E3319890000000000001776
-t1311971721
+c000000004E3321CD0000000000001776
+t1311973837
 s6006
 i"CameraViewController.h"
 
@@ -113,11 +113,11 @@ i<Foundation/Foundation.h>
 i<UIKit/UIKit.h>
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app
-t1311973447
+t1312219661
 s408
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app.dSYM
-t1311973446
+t1312219660
 s102
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/CameraViewController.nib
@@ -137,8 +137,8 @@ t1311891098
 s8
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Prototype2
-t1311973446
-s42096
+t1312219660
+s36104
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/ResourceRules.plist
 t1311889337
@@ -153,7 +153,7 @@ t1311892133
 s45638
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/CameraViewController.o
-t1311973446
+t1312219659
 s76092
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/Prototype2.LinkFileList
@@ -162,11 +162,11 @@ t1311889336
 s519
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/Prototype2AppDelegate.o
-t1311973446
+t1312219659
 s52508
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/main.o
-t1311957911
+t1312219659
 s6512
 
 N/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2.xcent
@@ -190,7 +190,7 @@ t1311889317
 s16331
 
 N/var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-herhtcnyqcrwxccelaeofehyqrpv/Prototype2_Prefix.pch.gch
-t1311957911
+t1312219659
 s10647452
 
 NPrototype2-Info.plist
@@ -200,19 +200,19 @@ s1194
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies333666322#333666322#0(0"0(0#1#0"8615068224#0"0#
+lSLF07#2@18"Check dependencies333912457#333912457#0(0"0(0#1#0"8247620834010738688#0"0#
 
 CCodeSign /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app
-s333666246.736204
-e333666247.366186
+s333912460.908619
+e333912461.599778
 r1
 xCodeSign
 x/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app
-lSLF07#2@44"CodeSign build/Debug-iphoneos/Prototype2.app333666246#333666247#0(0"0(0#0#114"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app8603827360#826"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Hannah Clemmons (B2BPPLL5V4)" --resource-rules=/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/ResourceRules.plist --entitlements /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2.xcent /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app0#
+lSLF07#2@44"CodeSign build/Debug-iphoneos/Prototype2.app333912460#333912461#0(0"0(0#0#114"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app8603992032#826"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Hannah Clemmons (B2BPPLL5V4)" --resource-rules=/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/ResourceRules.plist --entitlements /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2.xcent /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app0#
 
 CCompileC build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/CameraViewController.o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s333666246.534711
-e333666246.674366
+s333912459.229025
+e333912459.503717
 r1
 xCompileC
 xbuild/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/CameraViewController.o
@@ -223,11 +223,11 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 o/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m: In function '-[CameraViewController capturePhoto:]':
 o/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m:104: warning: class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol
-lSLF07#2@120"Compile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m333666246#333666246#0(388"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m: In function '-[CameraViewController capturePhoto:]':/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m:104: warning: class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol1(22@93"Class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol333666246#167#221#0(6@112"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m333664521#104#0#104#0#45"class '*' does not implement the '*' protocol0(0#0#112"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m8590249984#2267"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources/armv7 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-herhtcnyqcrwxccelaeofehyqrpv/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/CameraViewController.o0#
+lSLF07#2@120"Compile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m333912459#333912459#0(388"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m: In function '-[CameraViewController capturePhoto:]':/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m:104: warning: class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol1(22@93"Class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol333912459#167#221#0(6@112"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m333666637#104#0#104#0#45"class '*' does not implement the '*' protocol0(0#0#112"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m8594866304#2267"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources/armv7 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-herhtcnyqcrwxccelaeofehyqrpv/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/../CameraViewController.m -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/CameraViewController.o0#
 
 CCompileC build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/Prototype2AppDelegate.o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s333666246.533989
-e333666246.644254
+s333912459.228360
+e333912459.503510
 r1
 xCompileC
 xbuild/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/Prototype2AppDelegate.o
@@ -236,11 +236,11 @@ xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@118"Compile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m333666246#333666246#0(0"0(0#0#110"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m8612348352#2266"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources/armv7 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-herhtcnyqcrwxccelaeofehyqrpv/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/Prototype2AppDelegate.o0#
+lSLF07#2@118"Compile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m333912459#333912459#0(0"0(0#0#110"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m8598316576#2266"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources/armv7 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-herhtcnyqcrwxccelaeofehyqrpv/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/Prototype2AppDelegate.m -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/Prototype2AppDelegate.o0#
 
 CCompileC build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/main.o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s333650711.595416
-e333650711.667451
+s333912459.227597
+e333912459.470150
 r1
 xCompileC
 xbuild/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/main.o
@@ -249,7 +249,7 @@ xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@93"Compile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m333650711#333650711#0(0"0(0#0#85"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m8608888480#2224"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources/armv7 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-herhtcnyqcrwxccelaeofehyqrpv/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/main.o0#
+lSLF07#2@93"Compile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m333912459#333912459#0(0"0(0#0#85"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m8603245088#2224"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources/armv7 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources -include /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-herhtcnyqcrwxccelaeofehyqrpv/Prototype2_Prefix.pch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/main.m -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/main.o0#
 
 CCompileXIB /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/CameraViewController.xib
 s333666245.300598
@@ -295,23 +295,23 @@ x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceR
 lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist333582136#333582137#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist7238179823467910144#577"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app0#
 
 CGenerateDSYMFile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app.dSYM /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Prototype2
-s333666246.710860
-e333666246.733799
+s333912460.850790
+e333912460.891463
 r1
 xGenerateDSYMFile
 x/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app.dSYM
 x/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Prototype2
-lSLF07#2@104"GenerateDSYMFile build/Debug-iphoneos/Prototype2.app.dSYM build/Debug-iphoneos/Prototype2.app/Prototype2333666246#333666246#0(0"0(0#0#125"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Prototype28612829440#491"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Prototype2 -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app.dSYM0#
+lSLF07#2@104"GenerateDSYMFile build/Debug-iphoneos/Prototype2.app.dSYM build/Debug-iphoneos/Prototype2.app/Prototype2333912460#333912461#0(0"0(0#0#125"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Prototype28603965664#491"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Prototype2 -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app.dSYM0#
 
 CLd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Prototype2 normal armv7
-s333666246.674433
-e333666246.710786
+s333912459.503770
+e333912460.850717
 r1
 xLd
 x/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Prototype2
 xnormal
 xarmv7
-lSLF07#2@130"Link /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Prototype2333666246#333666246#0(0"0(0#0#0"8602929600#1037"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos -filelist /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/Prototype2.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Prototype20#
+lSLF07#2@130"Link /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Prototype2333912459#333912461#0(0"0(0#0#0"28429445101453416#1037"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos -filelist /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Objects-normal/armv7/Prototype2.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Prototype20#
 
 CProcessInfoPlistFile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Info.plist Prototype2-Info.plist
 s333583898.046309
@@ -323,8 +323,8 @@ xPrototype2-Info.plist
 lSLF07#2@29"Process Prototype2-Info.plist333583898#333583898#0(0"0(0#0#100"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Prototype2-Info.plist8627629152#734"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Prototype2-Info.plist -genpkginfo /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/ResourceRules.plist -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/Info.plist0#
 
 CProcessPCH /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-herhtcnyqcrwxccelaeofehyqrpv/Prototype2_Prefix.pch.gch Prototype2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
-s333650710.756384
-e333650711.595342
+s333912457.938340
+e333912459.227518
 r1
 xProcessPCH
 x/var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-herhtcnyqcrwxccelaeofehyqrpv/Prototype2_Prefix.pch.gch
@@ -333,7 +333,7 @@ xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@32"Precompile Prototype2_Prefix.pch333650710#333650711#0(0"0(0#0#100"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Prototype2_Prefix.pch8750040477647135744#2079"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources/armv7 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Prototype2_Prefix.pch -o /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-herhtcnyqcrwxccelaeofehyqrpv/Prototype2_Prefix.pch.gch0#
+lSLF07#2@32"Precompile Prototype2_Prefix.pch333912457#333912459#0(0"0(0#0#100"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Prototype2_Prefix.pch8750040477647135744#2079"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-generated-files.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-own-target-headers.hmap -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-all-target-headers.hmap -iquote /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2-project-headers.hmap -F/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/include -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources/armv7 -I/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/DerivedSources -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Prototype2_Prefix.pch -o /var/folders/vn/vnXZsQR8EfadRCgD2Kzn3k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Prototype2_Prefix-herhtcnyqcrwxccelaeofehyqrpv/Prototype2_Prefix.pch.gch0#
 
 CProcessProductPackaging "/Volumes/ryan.george/Users/ryan.george/Library/MobileDevice/Provisioning Profiles/06003981-F153-424D-B089-4C18663E7ADE.mobileprovision" /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app/embedded.mobileprovision
 s333582138.933305
@@ -354,10 +354,10 @@ x/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/
 lSLF07#2@184"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2.xcent333583898#333583898#0(0"0(0#0#150"/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2.xcent8628104800#521"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Prototype2.build/Debug-iphoneos/Prototype2.build/Prototype2.xcent0#
 
 CTouch /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app
-s333666246.733946
-e333666246.736093
+s333912460.891610
+e333912460.908504
 r1
 xTouch
 x/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app
-lSLF07#2@120"Touch /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app333666246#333666246#0(0"0(0#0#0"8612039328#347"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app0#
+lSLF07#2@120"Touch /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app333912460#333912461#0(0"0(0#0#0"8602875808#347"    cd /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/build/Debug-iphoneos/Prototype2.app0#
 
