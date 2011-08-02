@@ -8,16 +8,16 @@
 
 #import <UIKit/UIKit.h>
 
-@class MainScreenViewController;
+@class MainMenuViewController;
 
 @interface Prototype2AppDelegate : NSObject <UIApplicationDelegate> 
 {
-	UIWindow *window;
-	    MainScreenViewController *firstView;
+    UIWindow *window;
+	MainMenuViewController *firstView;
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
-@property (retain, nonatomic) MainScreenViewController *firstView;
+@property (retain, nonatomic) MainMenuViewController *firstView;
 
 -(void)switchView:(UIView *)view1 toView:(UIView *)view2;
 

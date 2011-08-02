@@ -8,20 +8,18 @@
 
 #import <UIKit/UIKit.h>
 
-@class CameraViewController;
-@class SettingsViewController;
 
 @interface CameraViewController : UIViewController 
 {
 	IBOutlet UIImageView *mainImage;
 	IBOutlet UIButton *choosePhoto;
 	IBOutlet UIButton *takePhoto;
-	    
+	
 	IBOutlet UIView *studentView;
 	IBOutlet UIView *projectView;
 	IBOutlet UIView *contentView;
 	IBOutlet UIView *summaryView;
-	 
+	
 	IBOutlet UISegmentedControl *userSelect;
 	IBOutlet UISegmentedControl *documentCollect;
 	
@@ -38,10 +36,10 @@
 	IBOutlet UIScrollView *projectScroll;
 	IBOutlet UIScrollView *contentScroll;
 	IBOutlet UIScrollView *summaryScroll;
-	    
-	    float spacingStudentVariable;
-	    float spacingProjectVariable;
-	    float spacingContentVariable;
+	
+	float spacingStudentVariable;
+	float spacingProjectVariable;
+	float spacingContentVariable;
 }
 
 @property (nonatomic, retain) IBOutlet UIImageView *mainImage;
@@ -64,7 +62,6 @@
 @property (nonatomic, retain) IBOutlet UIScrollView *projectScroll;
 @property (nonatomic, retain) IBOutlet UIScrollView *contentScroll;
 @property (nonatomic, retain) IBOutlet UIScrollView *summaryScroll;
-
 
 -(IBAction) capturePhoto:(id) sender;
 
