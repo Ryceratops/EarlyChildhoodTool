@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+@class MainMenuViewController;
 
 @interface CameraViewController : UIViewController 
 {
@@ -40,6 +41,9 @@
 	float spacingStudentVariable;
 	float spacingProjectVariable;
 	float spacingContentVariable;
+	
+	CameraViewController *cameraView;
+	MainMenuViewController *mainView;
 }
 
 @property (nonatomic, retain) IBOutlet UIImageView *mainImage;
@@ -62,6 +66,7 @@
 @property (nonatomic, retain) IBOutlet UIScrollView *projectScroll;
 @property (nonatomic, retain) IBOutlet UIScrollView *contentScroll;
 @property (nonatomic, retain) IBOutlet UIScrollView *summaryScroll;
+@property (nonatomic, retain) MainMenuViewController *mainView;
 
 -(IBAction) capturePhoto:(id) sender;
 
@@ -74,5 +79,6 @@
 -(IBAction)addStudent:(id) sender;
 -(IBAction)addProject:(id)sender;
 -(IBAction)addContent:(id)sender;
+-(IBAction)gotoMainMenu:(id)sender;
 
 @end

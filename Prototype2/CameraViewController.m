@@ -7,9 +7,13 @@
 //
 
 #import "CameraViewController.h"
+#import "MainMenuViewController.h"
+#import "Prototype2AppDelegate.h"
 
 
 @implementation CameraViewController
+
+@synthesize mainView;
 
 @synthesize mainImage;
 @synthesize choosePhoto;
@@ -194,6 +198,12 @@
 	[projectView setHidden:YES];
 	[contentView setHidden:YES];
 	[summaryView setHidden:NO];
+}
+
+-(IBAction)gotoMainMenu:(id)sender
+{
+	Prototype2AppDelegate *delegate = (Prototype2AppDelegate *)[[UIApplication sharedApplication]delegate];
+	MainMenuViewController *mainView = [[MainMenuViewController alloc] initWithNibName:@"" bundle:<#(NSBundle *)nibBundleOrNil#>]
 }
 
  // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.

@@ -2,7 +2,7 @@
 {
 	1D3623240D0F684500981E51 /* Prototype2AppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {674, 733}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1161, 677}}";
 			sepNavSelRange = "{504, 0}";
 			sepNavVisRange = "{0, 528}";
 			sepNavWindowFrame = "{{413, 292}, {750, 558}}";
@@ -12,7 +12,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1965, 936}}";
 			sepNavSelRange = "{696, 0}";
-			sepNavVisRange = "{31, 1627}";
+			sepNavVisRange = "{31, 1579}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* Prototype2 */ = {
@@ -77,6 +77,8 @@
 			D92EEA7413E7580A00B6FAD1 = D92EEA7413E7580A00B6FAD1 /* PBXTextBookmark */;
 			D92EEA7513E7580A00B6FAD1 = D92EEA7513E7580A00B6FAD1 /* PBXTextBookmark */;
 			D92EEA7613E7580A00B6FAD1 = D92EEA7613E7580A00B6FAD1 /* PBXTextBookmark */;
+			D9E2A0DE13E89FDD005BF623 /* XCBuildMessageTextBookmark */ = D9E2A0DE13E89FDD005BF623 /* XCBuildMessageTextBookmark */;
+			D9E2A0DF13E89FDD005BF623 /* PBXTextBookmark */ = D9E2A0DF13E89FDD005BF623 /* PBXTextBookmark */;
 			D9F8AC8713E3271200775E05 = D9F8AC8713E3271200775E05 /* PBXBookmark */;
 			D9F8ACA613E32A6E00775E05 = D9F8ACA613E32A6E00775E05 /* PBXTextBookmark */;
 		};
@@ -123,31 +125,31 @@
 	};
 	D92EE96B13E723D400B6FAD1 /* MainMenuViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {674, 733}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1161, 652}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 241}";
 		};
 	};
 	D92EE96C13E723D400B6FAD1 /* MainMenuViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1146, 1105}}";
-			sepNavSelRange = "{1069, 0}";
-			sepNavVisRange = "{216, 1551}";
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1079}}";
+			sepNavSelRange = "{1915, 0}";
+			sepNavVisRange = "{688, 1743}";
 			sepNavWindowFrame = "{{15, 855}, {750, 558}}";
 		};
 	};
 	D92EE97013E723E900B6FAD1 /* SettingsViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {674, 733}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1161, 677}}";
 			sepNavSelRange = "{558, 0}";
 			sepNavVisRange = "{0, 565}";
 		};
 	};
 	D92EE97113E723E900B6FAD1 /* SettingsViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1146, 780}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1161, 741}}";
 			sepNavSelRange = "{191, 0}";
-			sepNavVisRange = "{0, 1325}";
+			sepNavVisRange = "{0, 1284}";
 		};
 	};
 	D92EE99813E7259B00B6FAD1 /* PlistBookmark */ = {
@@ -172,7 +174,7 @@
 		fRef = D9EF1F9213E1E256000AFF91 /* CameraViewController.m */;
 		name = "CameraViewController.m: 53";
 		rLen = 366;
-		rLoc = 1131;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 1780;
 		vrLoc = 275;
@@ -239,7 +241,7 @@
 		fRef = D9EF1F9113E1E256000AFF91 /* CameraViewController.h */;
 		name = "CameraViewController.h: 38";
 		rLen = 13;
-		rLoc = 925;
+		rLoc = 956;
 		rType = 0;
 		vrLen = 2183;
 		vrLoc = 174;
@@ -288,6 +290,25 @@
 		vrLen = 1551;
 		vrLoc = 216;
 	};
+	D9E2A0DE13E89FDD005BF623 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol";
+		fRef = D9EF1F9213E1E256000AFF91 /* CameraViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 119;
+		rType = 1;
+	};
+	D9E2A0DF13E89FDD005BF623 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9EF1F9213E1E256000AFF91 /* CameraViewController.m */;
+		name = "CameraViewController.m: 119";
+		rLen = 0;
+		rLoc = 3537;
+		rType = 0;
+		vrLen = 232;
+		vrLoc = 3341;
+	};
 	D9EF1F8513E1E22B000AFF91 /* Prototype2 */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
@@ -334,17 +355,18 @@
 	};
 	D9EF1F9113E1E256000AFF91 /* CameraViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {674, 1001}}";
-			sepNavSelRange = "{925, 13}";
-			sepNavVisRange = "{174, 2183}";
+			sepNavIntBoundsRect = "{{0, 0}, {691, 1079}}";
+			sepNavSelRange = "{2815, 35}";
+			sepNavVisRange = "{932, 1593}";
 			sepNavWindowFrame = "{{38, 834}, {750, 558}}";
 		};
 	};
 	D9EF1F9213E1E256000AFF91 /* CameraViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {796, 3094}}";
-			sepNavSelRange = "{1131, 366}";
-			sepNavVisRange = "{275, 1780}";
+			sepNavFolds = "{\n    c =     (\n                {\n            l = \"(NSBundle *)nibBundleOrNil\";\n            r = \"{5678, 30}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 6813}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {439, 3406}}";
+			sepNavSelRange = "{3537, 0}";
+			sepNavVisRange = "{2860, 390}";
 			sepNavWindowFrame = "{{61, 813}, {750, 558}}";
 		};
 	};
