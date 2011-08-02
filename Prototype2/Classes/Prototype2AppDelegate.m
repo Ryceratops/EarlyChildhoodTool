@@ -7,20 +7,14 @@
 //
 
 #import "Prototype2AppDelegate.h"
-#import "MainMenuViewController.h"
+#import "MainScreenViewController.h"
 
 @implementation Prototype2AppDelegate
-
-@synthesize window, firstView;
-
-
-#pragma mark -
-#pragma mark Application lifecycle
 
 -(void)applicationDidFinishLaunching:(UIApplication *)application
 {
 	[window makeKeyAndVisible];
-	MainMenuViewController *mainView = [[MainMenuViewController alloc] initWithNibName:@"MainMenuViewController" bundle:nil];
+	MainScreenViewController *mainView = [[MainScreenViewController alloc] initWithNibName:@"MainMenuViewController" bundle:nil];
 	self.firstView = mainView;
 	[window addSubview:firstView.view];
 	
@@ -29,9 +23,10 @@
 
 -(void)switchView:(UIView *)view1 toView:(UIView *)view2
 {
-	[view1 removeFromSuperview];
-	[window addSubview:view2];
+	    [view1 removeFromSuperview];
+	    [window addSubview:view2];
 }
+
 
 - (void)applicationWillResignActive:(UIApplication *)application {
     /*

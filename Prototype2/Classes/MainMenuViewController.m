@@ -15,38 +15,24 @@
 
 -(void)viewDidLoad
 {
-	//collect data button, defining the button
+	//collect data button
 	UIButton *collectDataButton = [UIButton buttonWithType:UIButtonTypeRoundedRect];
-	//designate where the button is (first x, y) and how large the button will be (second x, y)
 	collectDataButton.frame = CGRectMake(348, 512, 100, 100);
-	//set the button's title
 	[collectDataButton setTitle:(NSString *)@"Collect Data" 
-					   forState:(UIControlState)UIControlStateNormal];
-	//define an image for the button
+				 forState:(UIControlState)UIControlStateNormal];
 	UIImage *collectDataImage = [UIImage imageNamed:@"Projects.png"];
-	//set a image for the button
 	[collectDataButton setImage:collectDataImage forState:UIControlStateNormal];
-	//set how the button can be interacted with (touch up inside) and 
-	//what function/action hapens when the button is pressed
 	[collectDataButton addTarget:self action:@selector(gotoCollectData:) forControlEvents:UIControlEventTouchUpInside];
-	//add the button to the view
 	[self.view addSubview:collectDataButton];
 	
-	//settings button, defining the button
+	//settings button
 	UIButton *settingsButton = [UIButton buttonWithType:UIButtonTypeRoundedRect];
-	//designate where the button is (first x, y) and how large the button will be (second x, y)
 	settingsButton.frame = CGRectMake(348, 312, 100, 100);
-	//set the button's title
-	[settingsButton setTitle:(NSString *)@"Settings" 
-					forState:UIControlStateNormal];
-	//define an image for the button
+	[settingsButton setTitle:@"Settings" 
+			  forState:UIControlStateNormal];
 	UIImage *settingsImage = [UIImage imageNamed:@"Settings.png"];
-	//set the image for the button
 	[settingsButton setImage:settingsImage forState:UIControlStateNormal];
-	//set how the button can be interacted with (touch up inside) and 
-	//what function/action hapens when the button is pressed
 	[settingsButton addTarget:self action:@selector(gotoSettings:) forControlEvents:UIControlEventTouchUpInside];
-	//add the button to the view
 	[self.view addSubview:settingsButton];
 }
 

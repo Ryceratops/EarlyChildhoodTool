@@ -2,7 +2,7 @@
 //  SettingsViewController.m
 //  Prototype2
 //
-//  Created by Ryan George on 8/1/11.
+//  Created by Ryan George on 8/2/11.
 //  Copyright 2011 __MyCompanyName__. All rights reserved.
 //
 

@@ -9,8 +9,8 @@
 #import <UIKit/UIKit.h>
 
 
-@interface MainMenuViewController : UIViewController {
-
-}
+@interface MainScreenViewController : UIViewController {
+	
+	}
 
 @end

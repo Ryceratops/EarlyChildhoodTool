@@ -10,10 +10,10 @@
 
 @interface SettingsViewController : UIViewController 
 {
-	IBOutlet UITextField *nameField;
-	IBOutlet UITextField *ageField;
-	IBOutlet UITextField *gradeField;
-}
+	    IBOutlet UITextField *nameField;
+	    IBOutlet UITextField *ageField;
+	    IBOutlet UITextField *gradeField;
+	}
 @property (nonatomic, retain) IBOutlet UITextField *nameField;
 @property (nonatomic, retain) IBOutlet UITextField *ageField;
 @property (nonatomic, retain) IBOutlet UITextField *gradeField;
