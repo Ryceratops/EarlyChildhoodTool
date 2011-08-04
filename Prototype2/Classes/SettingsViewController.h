@@ -8,16 +8,20 @@
 
 #import <UIKit/UIKit.h>
 
+#define kFileName @"archive"
+#define kDataKey @"Data"
+
 @interface SettingsViewController : UIViewController 
 {
-	IBOutlet UITextField *nameField;
-	IBOutlet UITextField *ageField;
-	IBOutlet UITextField *gradeField;
+	IBOutlet UITextField *field1;
+	IBOutlet UITextField *field2;
+	IBOutlet UITextField *field3;
 }
-@property (nonatomic, retain) IBOutlet UITextField *nameField;
-@property (nonatomic, retain) IBOutlet UITextField *ageField;
-@property (nonatomic, retain) IBOutlet UITextField *gradeField;
+@property (nonatomic, retain) IBOutlet UITextField *field1;
+@property (nonatomic, retain) IBOutlet UITextField *field2;
+@property (nonatomic, retain) IBOutlet UITextField *field3;
 
--(IBAction)saveData:(id) sender;
+-(NSString *)dataFilePath;
+-(void)applicationWillTerminate:(NSNotification *)notification;
 
 @end

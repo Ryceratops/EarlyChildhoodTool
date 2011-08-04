@@ -203,7 +203,8 @@
 -(IBAction)gotoMainMenu:(id)sender
 {
 	Prototype2AppDelegate *delegate = (Prototype2AppDelegate *)[[UIApplication sharedApplication]delegate];
-	MainMenuViewController *mainView = [[MainMenuViewController alloc] initWithNibName:@"" bundle:<#(NSBundle *)nibBundleOrNil#>]
+	MainMenuViewController *mainView = [[MainMenuViewController alloc] initWithNibName:@"MainMenuViewController" bundle:nil];
+	[delegate switchView:self.view toView:mainView.view];
 }
 
  // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.

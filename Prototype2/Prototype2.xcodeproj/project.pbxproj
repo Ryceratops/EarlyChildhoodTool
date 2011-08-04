@@ -29,6 +29,7 @@
 		D92EE99513E7247200B6FAD1 /* StudentPortfolio.png in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98913E7247200B6FAD1 /* StudentPortfolio.png */; };
 		D92EE99613E7247200B6FAD1 /* ToBeFilled.png in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98A13E7247200B6FAD1 /* ToBeFilled.png */; };
 		D92EE99713E7247200B6FAD1 /* video.gif in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98B13E7247200B6FAD1 /* video.gif */; };
+		D95B927913E9FC4400CCC341 /* FourLines.m in Sources */ = {isa = PBXBuildFile; fileRef = D95B927813E9FC4400CCC341 /* FourLines.m */; };
 		D9BEA51313E351AE0011BCF2 /* CameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D9EF1F9213E1E256000AFF91 /* CameraViewController.m */; };
 		D9EF1F9513E1E256000AFF91 /* CameraViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D9EF1F9313E1E256000AFF91 /* CameraViewController.xib */; };
 		D9EF208813E21968000AFF91 /* smiley.png in Resources */ = {isa = PBXBuildFile; fileRef = D9EF208713E21968000AFF91 /* smiley.png */; };
@@ -63,6 +64,8 @@
 		D92EE98913E7247200B6FAD1 /* StudentPortfolio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = StudentPortfolio.png; path = ../../../Desktop/Icons/StudentPortfolio.png; sourceTree = SOURCE_ROOT; };
 		D92EE98A13E7247200B6FAD1 /* ToBeFilled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ToBeFilled.png; path = ../../../Desktop/Icons/ToBeFilled.png; sourceTree = SOURCE_ROOT; };
 		D92EE98B13E7247200B6FAD1 /* video.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = video.gif; path = ../../../Desktop/Icons/video.gif; sourceTree = SOURCE_ROOT; };
+		D95B927713E9FC4400CCC341 /* FourLines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourLines.h; sourceTree = "<group>"; };
+		D95B927813E9FC4400CCC341 /* FourLines.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourLines.m; sourceTree = "<group>"; };
 		D9EF1F9113E1E256000AFF91 /* CameraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CameraViewController.h; path = ../CameraViewController.h; sourceTree = "<group>"; };
 		D9EF1F9213E1E256000AFF91 /* CameraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CameraViewController.m; path = ../CameraViewController.m; sourceTree = "<group>"; };
 		D9EF1F9313E1E256000AFF91 /* CameraViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CameraViewController.xib; sourceTree = "<group>"; };
@@ -86,6 +89,8 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				D95B927713E9FC4400CCC341 /* FourLines.h */,
+				D95B927813E9FC4400CCC341 /* FourLines.m */,
 				1D3623240D0F684500981E51 /* Prototype2AppDelegate.h */,
 				1D3623250D0F684500981E51 /* Prototype2AppDelegate.m */,
 				D9EF1F9113E1E256000AFF91 /* CameraViewController.h */,
@@ -251,6 +256,7 @@
 				D9BEA51313E351AE0011BCF2 /* CameraViewController.m in Sources */,
 				D92EE96E13E723D400B6FAD1 /* MainMenuViewController.m in Sources */,
 				D92EE97313E723E900B6FAD1 /* SettingsViewController.m in Sources */,
+				D95B927913E9FC4400CCC341 /* FourLines.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
