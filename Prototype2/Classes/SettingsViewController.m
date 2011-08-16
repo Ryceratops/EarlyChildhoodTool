@@ -8,6 +8,11 @@
 
 #import "SettingsViewController.h"
 #import "FourLines.h"
+#import "MainMenuViewController.h"
+#import "AddStudentViewController.h"
+#import "AddProjectViewController.h"
+#import "EditStudentsViewController.h"
+#import "Prototype2AppDelegate.h"
 
 
 @implementation SettingsViewController
@@ -68,6 +73,33 @@
 	[super viewDidLoad];
 }
 
+-(IBAction)gotoAddStudent:(id)sender
+{
+	Prototype2AppDelegate *delegate = (Prototype2AppDelegate *)[[UIApplication sharedApplication]delegate];
+	AddStudentViewController *mainView = [[AddStudentViewController alloc] initWithNibName:@"AddStudentViewController" bundle:nil];
+	[delegate switchView:self.view toView:mainView.view];
+}
+
+-(IBAction)gotoMainMenu:(id)sender
+{
+	Prototype2AppDelegate *delegate = (Prototype2AppDelegate *)[[UIApplication sharedApplication]delegate];
+	MainMenuViewController *mainView = [[MainMenuViewController alloc] initWithNibName:@"MainMenuViewController" bundle:nil];
+	[delegate switchView:self.view toView:mainView.view];
+}
+
+-(IBAction)gotoAddProject:(id)sender
+{
+	Prototype2AppDelegate *delegate = (Prototype2AppDelegate *)[[UIApplication sharedApplication] delegate];
+	AddProjectViewController *mainView = [[AddProjectViewController alloc] initWithNibName:@"AddProjectViewController" bundle:nil];
+	[delegate switchView:self.view toView:mainView.view];
+}
+
+-(IBAction)gotoEditStudents:(id)sender
+{
+	Prototype2AppDelegate *delegate = (Prototype2AppDelegate *)[[UIApplication sharedApplication] delegate];
+	EditStudentsViewController *mainView = [[EditStudentsViewController alloc] initWithNibName:@"EditStudentsViewController" bundle:nil];
+	[delegate switchView:self.view toView:mainView.view];
+}
  // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
 /*
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
@@ -89,7 +121,7 @@
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
     // Overriden to allow any orientation.
-    return YES;
+    return (interfaceOrientation == UIInterfaceOrientationPortrait);
 }
 
 

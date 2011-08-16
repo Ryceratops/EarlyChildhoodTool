@@ -4,9 +4,45 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>469269248383486776.png</key>
+		<data>
+		+O0pYnie1HMMO+T44SWAEkjxH20=
+		</data>
+		<key>AddProjectViewController.nib</key>
+		<data>
+		7LNARq68zpKPz3Aqgmwo9NqPwiY=
+		</data>
+		<key>AddStudentViewController.nib</key>
+		<data>
+		MeiT1NK8B7A2HUnmWTjmQEiY5Hk=
+		</data>
+		<key>CHILDREN.png</key>
+		<data>
+		R2SsTOVe/IdYqQbbrCrW+LsLXCo=
+		</data>
 		<key>CameraViewController.nib</key>
 		<data>
-		Wt++nzfWhITaBGck8MrRJrLv14E=
+		izF9q6lHSztdFqowzXoXy7Eh4f4=
+		</data>
+		<key>Classes.png</key>
+		<data>
+		+WU5Qp+uHixcgKys9kAed6uioAo=
+		</data>
+		<key>ContentAreas.png</key>
+		<data>
+		kCNj595NWP3YmPqTgD0MS1e2gl4=
+		</data>
+		<key>Documentation.png</key>
+		<data>
+		Rg9hPIrp4O51QFe9sWng5Ep19r0=
+		</data>
+		<key>EditStudentsViewController.nib</key>
+		<data>
+		cajg7QUWVdvJc/tQfG6ZGgNxsmY=
+		</data>
+		<key>MainMenuViewController.nib</key>
+		<data>
+		Srkl+Sim3hxsWRDm99BXV7j8pog=
 		</data>
 		<key>MainWindow.nib</key>
 		<data>
@@ -16,6 +52,34 @@
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>Projects.png</key>
+		<data>
+		+bCBp7qc8vrPttxba0et1c7zKCA=
+		</data>
+		<key>Reports.png</key>
+		<data>
+		iF8U95sKZQ1gwg5jYjtjamKkRXE=
+		</data>
+		<key>Settings.png</key>
+		<data>
+		sm/wk9D+2eHRLWcW6ORH7yOod58=
+		</data>
+		<key>SettingsViewController.nib</key>
+		<data>
+		WXJw+Sh+Cyn2g8Qhg7MHn5xC/Pk=
+		</data>
+		<key>StudentPortfolio.png</key>
+		<data>
+		aryRxAaYO7EoUAFjl8EGUg4/kxo=
+		</data>
+		<key>ToBeFilled.png</key>
+		<data>
+		rZolTZmfJMZ8EWzhMtZHA38YclA=
+		</data>
+		<key>columbia-logo.jpg</key>
+		<data>
+		lZYUYdb3LUw5g3SMERHlKVmRFf8=
+		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
 		Uo6+5fAkkRTe9zFS+isplZcv9P0=
@@ -23,6 +87,10 @@
 		<key>smiley.png</key>
 		<data>
 		5Jt7sfASZUziNe2BC7A2+EaDReA=
+		</data>
+		<key>video.gif</key>
+		<data>
+		wbqMlkk8C4lX1KKyzS+/YTkVKLA=
 		</data>
 	</dict>
 	<key>rules</key>

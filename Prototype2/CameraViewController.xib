@@ -987,7 +987,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
-										<string key="IBUINormalTitle">Math</string>
+										<string key="IBUINormalTitle">Social and Emotional Development</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -1067,7 +1067,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
-										<string key="IBUINormalTitle">Fine Arts</string>
+										<string key="IBUINormalTitle">Science and Technology</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -1087,6 +1087,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">Art</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -1106,6 +1107,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">Music</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -1125,6 +1127,7 @@
 										<int key="IBUIContentVerticalAlignment">0</int>
 										<reference key="IBUIFont" ref="4453897"/>
 										<int key="IBUIButtonType">1</int>
+										<string key="IBUINormalTitle">Global Awareness</string>
 										<reference key="IBUIHighlightedTitleColor" ref="948089534"/>
 										<object class="NSColor" key="IBUINormalTitleColor">
 											<int key="NSColorSpace">1</int>
@@ -1136,14 +1139,14 @@
 									<object class="IBUILabel" id="123196035">
 										<reference key="NSNextResponder" ref="292437158"/>
 										<int key="NSvFlags">292</int>
-										<string key="NSFrame">{{34, 108}, {41, 21}}</string>
+										<string key="NSFrame">{{0, 108}, {164, 21}}</string>
 										<reference key="NSSuperview" ref="292437158"/>
 										<bool key="IBUIOpaque">NO</bool>
 										<bool key="IBUIClipsSubviews">YES</bool>
 										<int key="IBUIContentMode">7</int>
 										<bool key="IBUIUserInteractionEnabled">NO</bool>
 										<string key="targetRuntimeIdentifier">IBIPadFramework</string>
-										<string key="IBUIText">Math</string>
+										<string key="IBUIText">SociEmotional Dev</string>
 										<object class="NSColor" key="IBUITextColor">
 											<int key="NSColorSpace">1</int>
 											<bytes key="NSRGB">MSAxIDEAA</bytes>
@@ -1156,14 +1159,14 @@
 									<object class="IBUILabel" id="130623494">
 										<reference key="NSNextResponder" ref="292437158"/>
 										<int key="NSvFlags">292</int>
-										<string key="NSFrame">{{168, 108}, {81, 21}}</string>
+										<string key="NSFrame">{{159, 108}, {100, 21}}</string>
 										<reference key="NSSuperview" ref="292437158"/>
 										<bool key="IBUIOpaque">NO</bool>
 										<bool key="IBUIClipsSubviews">YES</bool>
 										<int key="IBUIContentMode">7</int>
 										<bool key="IBUIUserInteractionEnabled">NO</bool>
 										<string key="targetRuntimeIdentifier">IBIPadFramework</string>
-										<string key="IBUIText">Lang. Arts</string>
+										<string key="IBUIText">Physical Dev</string>
 										<object class="NSColor" key="IBUITextColor">
 											<int key="NSColorSpace">1</int>
 											<bytes key="NSRGB">MSAxIDEAA</bytes>
@@ -1183,7 +1186,7 @@
 										<int key="IBUIContentMode">7</int>
 										<bool key="IBUIUserInteractionEnabled">NO</bool>
 										<string key="targetRuntimeIdentifier">IBIPadFramework</string>
-										<string key="IBUIText">PhysDev &amp; Health</string>
+										<string key="IBUIText">Language &amp; Lit</string>
 										<object class="NSColor" key="IBUITextColor">
 											<int key="NSColorSpace">1</int>
 											<bytes key="NSRGB">MSAxIDEAA</bytes>
@@ -1203,7 +1206,7 @@
 										<int key="IBUIContentMode">7</int>
 										<bool key="IBUIUserInteractionEnabled">NO</bool>
 										<string key="targetRuntimeIdentifier">IBIPadFramework</string>
-										<string key="IBUIText">Foreign Lang.</string>
+										<string key="IBUIText">Math &amp; Logic</string>
 										<object class="NSColor" key="IBUITextColor">
 											<int key="NSColorSpace">1</int>
 											<bytes key="NSRGB">MSAxIDEAA</bytes>
@@ -1216,14 +1219,14 @@
 									<object class="IBUILabel" id="405077777">
 										<reference key="NSNextResponder" ref="292437158"/>
 										<int key="NSvFlags">292</int>
-										<string key="NSFrame">{{608, 108}, {70, 21}}</string>
+										<string key="NSFrame">{{582, 108}, {121, 21}}</string>
 										<reference key="NSSuperview" ref="292437158"/>
 										<bool key="IBUIOpaque">NO</bool>
 										<bool key="IBUIClipsSubviews">YES</bool>
 										<int key="IBUIContentMode">7</int>
 										<bool key="IBUIUserInteractionEnabled">NO</bool>
 										<string key="targetRuntimeIdentifier">IBIPadFramework</string>
-										<string key="IBUIText">Fine Arts</string>
+										<string key="IBUIText">Science &amp; Tech</string>
 										<object class="NSColor" key="IBUITextColor">
 											<int key="NSColorSpace">1</int>
 											<bytes key="NSRGB">MSAxIDEAA</bytes>
@@ -1236,14 +1239,14 @@
 									<object class="IBUILabel" id="331851240">
 										<reference key="NSNextResponder" ref="292437158"/>
 										<int key="NSvFlags">292</int>
-										<string key="NSFrame">{{776, 108}, {67, 21}}</string>
+										<string key="NSFrame">{{795, 108}, {29, 21}}</string>
 										<reference key="NSSuperview" ref="292437158"/>
 										<bool key="IBUIOpaque">NO</bool>
 										<bool key="IBUIClipsSubviews">YES</bool>
 										<int key="IBUIContentMode">7</int>
 										<bool key="IBUIUserInteractionEnabled">NO</bool>
 										<string key="targetRuntimeIdentifier">IBIPadFramework</string>
-										<string key="IBUIText">Science</string>
+										<string key="IBUIText">Art</string>
 										<object class="NSColor" key="IBUITextColor">
 											<int key="NSColorSpace">1</int>
 											<bytes key="NSRGB">MSAxIDEAA</bytes>
@@ -1256,14 +1259,14 @@
 									<object class="IBUILabel" id="646409828">
 										<reference key="NSNextResponder" ref="292437158"/>
 										<int key="NSvFlags">292</int>
-										<string key="NSFrame">{{906, 108}, {147, 21}}</string>
+										<string key="NSFrame">{{955, 108}, {50, 21}}</string>
 										<reference key="NSSuperview" ref="292437158"/>
 										<bool key="IBUIOpaque">NO</bool>
 										<bool key="IBUIClipsSubviews">YES</bool>
 										<int key="IBUIContentMode">7</int>
 										<bool key="IBUIUserInteractionEnabled">NO</bool>
 										<string key="targetRuntimeIdentifier">IBIPadFramework</string>
-										<string key="IBUIText">Sociomotional Dev.</string>
+										<string key="IBUIText">Music</string>
 										<object class="NSColor" key="IBUITextColor">
 											<int key="NSColorSpace">1</int>
 											<bytes key="NSRGB">MSAxIDEAA</bytes>
@@ -1276,14 +1279,14 @@
 									<object class="IBUILabel" id="769916328">
 										<reference key="NSNextResponder" ref="292437158"/>
 										<int key="NSvFlags">292</int>
-										<string key="NSFrame">{{1124, 108}, {106, 21}}</string>
+										<string key="NSFrame">{{1107, 108}, {140, 21}}</string>
 										<reference key="NSSuperview" ref="292437158"/>
 										<bool key="IBUIOpaque">NO</bool>
 										<bool key="IBUIClipsSubviews">YES</bool>
 										<int key="IBUIContentMode">7</int>
 										<bool key="IBUIUserInteractionEnabled">NO</bool>
 										<string key="targetRuntimeIdentifier">IBIPadFramework</string>
-										<string key="IBUIText">Soc. Science</string>
+										<string key="IBUIText">Global Awareness</string>
 										<object class="NSColor" key="IBUITextColor">
 											<int key="NSColorSpace">1</int>
 											<bytes key="NSRGB">MSAxIDEAA</bytes>
@@ -1818,6 +1821,33 @@
 					</object>
 					<int key="connectionID">166</int>
 				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addContent:</string>
+						<reference key="source" ref="1031151934"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">167</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addContent:</string>
+						<reference key="source" ref="632884552"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">168</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">addContent:</string>
+						<reference key="source" ref="353973670"/>
+						<reference key="destination" ref="841351856"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">169</int>
+				</object>
 			</object>
 			<object class="IBMutableOrderedSet" key="objectRecords">
 				<object class="NSArray" key="orderedObjects">
@@ -1970,17 +2000,17 @@
 							<reference ref="311208400"/>
 							<reference ref="610714355"/>
 							<reference ref="74934285"/>
+							<reference ref="353973670"/>
+							<reference ref="632884552"/>
+							<reference ref="1031151934"/>
 							<reference ref="123196035"/>
+							<reference ref="130623494"/>
 							<reference ref="385226574"/>
 							<reference ref="478626641"/>
-							<reference ref="130623494"/>
 							<reference ref="405077777"/>
-							<reference ref="353973670"/>
-							<reference ref="331851240"/>
-							<reference ref="632884552"/>
 							<reference ref="646409828"/>
-							<reference ref="1031151934"/>
 							<reference ref="769916328"/>
+							<reference ref="331851240"/>
 						</object>
 						<reference key="parent" ref="227807775"/>
 					</object>
@@ -2623,23 +2653,23 @@
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">AUIIAABC2AAAA</bytes>
+						<bytes key="NSTransformStruct">P4AAAL+AAABBoAAAwv4AAA</bytes>
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">P4AAAL+AAABDGQAAwv4AAA</bytes>
+						<bytes key="NSTransformStruct">P4AAAL+AAABDKAAAwv4AAA</bytes>
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">P4AAAL+AAABDqYAAwv4AAA</bytes>
+						<bytes key="NSTransformStruct">P4AAAL+AAABDkIAAwv4AAA</bytes>
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">P4AAAL+AAABD2wAAwv4AAA</bytes>
+						<bytes key="NSTransformStruct">P4AAAL+AAABD4AAAwv4AAA</bytes>
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">AUQYAABC2AAAA</bytes>
+						<bytes key="NSTransformStruct">P4AAAL+AAABEGAAAwv4AAA</bytes>
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
@@ -2647,7 +2677,7 @@
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">AURCAABC2AAAA</bytes>
+						<bytes key="NSTransformStruct">P4AAAL+AAABEQgAAwv4AAA</bytes>
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
@@ -2655,7 +2685,7 @@
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">AURigABC2AAAA</bytes>
+						<bytes key="NSTransformStruct">P4AAAL+AAABEYoAAwv4AAA</bytes>
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
@@ -2663,10 +2693,10 @@
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">P4AAAL+AAABEiQAAwv4AAA</bytes>
+						<bytes key="NSTransformStruct">P4AAAL+AAABEjIAAwv4AAA</bytes>
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-					<string>{{628, 292}, {768, 1024}}</string>
+					<string>{{1234, 297}, {768, 1024}}</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
@@ -2702,7 +2732,7 @@
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">P4AAAL+AAADDjIAAwxMAAA</bytes>
+						<bytes key="NSTransformStruct">P4AAAL+AAAAAAAAAwxMAAA</bytes>
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform"/>
@@ -2764,7 +2794,7 @@
 				</object>
 			</object>
 			<nil key="sourceID"/>
-			<int key="maxID">166</int>
+			<int key="maxID">169</int>
 		</object>
 		<object class="IBClassDescriber" key="IBDocument.Classes">
 			<object class="NSMutableArray" key="referencedPartialClassDescriptions">

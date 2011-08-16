@@ -1,0 +1,45 @@
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m: In function '-[EditStudentsViewController getAllRowsFromTableNamed:]':
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m:56: error: 'str' undeclared (first use in this function)
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m:56: error: (Each undeclared identifier is reported only once
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m:56: error: for each function it appears in.)
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m:56: warning: format not a string literal and no format arguments
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m:60: warning: format not a string literal and no format arguments
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m: At top level:
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m:139: warning: property 'textView' requires method '-textView' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m:139: warning: property 'textView' requires the method 'setTextView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+{standard input}:252:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L19"
+{standard input}:252:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:251:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L18"
+{standard input}:251:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+{standard input}:250:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L17"
+{standard input}:250:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:249:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L16"
+{standard input}:249:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:248:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L15"
+{standard input}:248:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+{standard input}:247:non-relocatable subtraction expression, "L_OBJC_IVAR_$_EditStudentsViewController.db$non_lazy_ptr" minus "L14"
+{standard input}:247:symbol: "L_OBJC_IVAR_$_EditStudentsViewController.db$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:246:non-relocatable subtraction expression, "L_OBJC_IVAR_$_EditStudentsViewController.db$non_lazy_ptr" minus "L11"
+{standard input}:246:symbol: "L_OBJC_IVAR_$_EditStudentsViewController.db$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:245:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L10"
+{standard input}:245:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+{standard input}:244:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L9"
+{standard input}:244:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+{standard input}:108:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L3"
+{standard input}:108:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:107:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L2"
+{standard input}:107:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_NSSearchPathForDirectoriesInDomains$stub
+{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+{standard input}:unknown:Undefined local symbol L_sqlite3_open$stub
+{standard input}:unknown:Undefined local symbol L_sqlite3_close$stub
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_EditStudentsViewController.db$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5

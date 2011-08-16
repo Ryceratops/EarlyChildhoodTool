@@ -30,6 +30,13 @@
 		D92EE99613E7247200B6FAD1 /* ToBeFilled.png in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98A13E7247200B6FAD1 /* ToBeFilled.png */; };
 		D92EE99713E7247200B6FAD1 /* video.gif in Resources */ = {isa = PBXBuildFile; fileRef = D92EE98B13E7247200B6FAD1 /* video.gif */; };
 		D95B927913E9FC4400CCC341 /* FourLines.m in Sources */ = {isa = PBXBuildFile; fileRef = D95B927813E9FC4400CCC341 /* FourLines.m */; };
+		D965504F13F9761500436B33 /* AddStudentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D965504D13F9761500436B33 /* AddStudentViewController.m */; };
+		D965505013F9761500436B33 /* AddStudentViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D965504E13F9761500436B33 /* AddStudentViewController.xib */; };
+		D965506313F976AC00436B33 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = D965506213F976AC00436B33 /* libsqlite3.dylib */; };
+		D96550B613F9853100436B33 /* AddProjectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D96550B413F9853100436B33 /* AddProjectViewController.m */; };
+		D96550B713F9853100436B33 /* AddProjectViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D96550B513F9853100436B33 /* AddProjectViewController.xib */; };
+		D965510213F98F2F00436B33 /* EditStudentsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D965510013F98F2F00436B33 /* EditStudentsViewController.m */; };
+		D965510313F98F2F00436B33 /* EditStudentsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D965510113F98F2F00436B33 /* EditStudentsViewController.xib */; };
 		D9BEA51313E351AE0011BCF2 /* CameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D9EF1F9213E1E256000AFF91 /* CameraViewController.m */; };
 		D9EF1F9513E1E256000AFF91 /* CameraViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D9EF1F9313E1E256000AFF91 /* CameraViewController.xib */; };
 		D9EF208813E21968000AFF91 /* smiley.png in Resources */ = {isa = PBXBuildFile; fileRef = D9EF208713E21968000AFF91 /* smiley.png */; };
@@ -66,6 +73,16 @@
 		D92EE98B13E7247200B6FAD1 /* video.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = video.gif; path = ../../../Desktop/Icons/video.gif; sourceTree = SOURCE_ROOT; };
 		D95B927713E9FC4400CCC341 /* FourLines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourLines.h; sourceTree = "<group>"; };
 		D95B927813E9FC4400CCC341 /* FourLines.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourLines.m; sourceTree = "<group>"; };
+		D965504C13F9761500436B33 /* AddStudentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AddStudentViewController.h; path = ../AddStudentViewController.h; sourceTree = "<group>"; };
+		D965504D13F9761500436B33 /* AddStudentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AddStudentViewController.m; path = ../AddStudentViewController.m; sourceTree = "<group>"; };
+		D965504E13F9761500436B33 /* AddStudentViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AddStudentViewController.xib; sourceTree = "<group>"; };
+		D965506213F976AC00436B33 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
+		D96550B313F9853100436B33 /* AddProjectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddProjectViewController.h; sourceTree = "<group>"; };
+		D96550B413F9853100436B33 /* AddProjectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddProjectViewController.m; sourceTree = "<group>"; };
+		D96550B513F9853100436B33 /* AddProjectViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = AddProjectViewController.xib; path = Classes/AddProjectViewController.xib; sourceTree = "<group>"; };
+		D96550FF13F98F2F00436B33 /* EditStudentsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EditStudentsViewController.h; sourceTree = "<group>"; };
+		D965510013F98F2F00436B33 /* EditStudentsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EditStudentsViewController.m; sourceTree = "<group>"; };
+		D965510113F98F2F00436B33 /* EditStudentsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = EditStudentsViewController.xib; path = Classes/EditStudentsViewController.xib; sourceTree = "<group>"; };
 		D9EF1F9113E1E256000AFF91 /* CameraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CameraViewController.h; path = ../CameraViewController.h; sourceTree = "<group>"; };
 		D9EF1F9213E1E256000AFF91 /* CameraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CameraViewController.m; path = ../CameraViewController.m; sourceTree = "<group>"; };
 		D9EF1F9313E1E256000AFF91 /* CameraViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CameraViewController.xib; sourceTree = "<group>"; };
@@ -80,6 +97,7 @@
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				D965506313F976AC00436B33 /* libsqlite3.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -99,6 +117,12 @@
 				D92EE96C13E723D400B6FAD1 /* MainMenuViewController.m */,
 				D92EE97013E723E900B6FAD1 /* SettingsViewController.h */,
 				D92EE97113E723E900B6FAD1 /* SettingsViewController.m */,
+				D965504C13F9761500436B33 /* AddStudentViewController.h */,
+				D965504D13F9761500436B33 /* AddStudentViewController.m */,
+				D96550B313F9853100436B33 /* AddProjectViewController.h */,
+				D96550B413F9853100436B33 /* AddProjectViewController.m */,
+				D96550FF13F98F2F00436B33 /* EditStudentsViewController.h */,
+				D965510013F98F2F00436B33 /* EditStudentsViewController.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -137,11 +161,14 @@
 			children = (
 				D92EE97D13E7246500B6FAD1 /* Images */,
 				D9EF208713E21968000AFF91 /* smiley.png */,
+				D965510113F98F2F00436B33 /* EditStudentsViewController.xib */,
+				D96550B513F9853100436B33 /* AddProjectViewController.xib */,
 				D92EE97213E723E900B6FAD1 /* SettingsViewController.xib */,
 				D92EE96D13E723D400B6FAD1 /* MainMenuViewController.xib */,
 				D9EF1F9313E1E256000AFF91 /* CameraViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* Prototype2-Info.plist */,
+				D965504E13F9761500436B33 /* AddStudentViewController.xib */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -152,6 +179,7 @@
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+				D965506213F976AC00436B33 /* libsqlite3.dylib */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -241,6 +269,9 @@
 				D92EE99513E7247200B6FAD1 /* StudentPortfolio.png in Resources */,
 				D92EE99613E7247200B6FAD1 /* ToBeFilled.png in Resources */,
 				D92EE99713E7247200B6FAD1 /* video.gif in Resources */,
+				D965505013F9761500436B33 /* AddStudentViewController.xib in Resources */,
+				D96550B713F9853100436B33 /* AddProjectViewController.xib in Resources */,
+				D965510313F98F2F00436B33 /* EditStudentsViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +288,9 @@
 				D92EE96E13E723D400B6FAD1 /* MainMenuViewController.m in Sources */,
 				D92EE97313E723E900B6FAD1 /* SettingsViewController.m in Sources */,
 				D95B927913E9FC4400CCC341 /* FourLines.m in Sources */,
+				D965504F13F9761500436B33 /* AddStudentViewController.m in Sources */,
+				D96550B613F9853100436B33 /* AddProjectViewController.m in Sources */,
+				D965510213F98F2F00436B33 /* EditStudentsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

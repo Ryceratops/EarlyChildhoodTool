@@ -1,0 +1,6 @@
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m: In function '-[EditStudentsViewController getAllRowsFromTableNamed:]':
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m:58: warning: format not a string literal and no format arguments
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m:59: warning: format not a string literal and no format arguments
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m: At top level:
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m:138: warning: property 'textView' requires method '-textView' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Volumes/ryan.george/Users/ryan.george/Documents/EarlyChildhoodTool/Prototype2/Classes/EditStudentsViewController.m:138: warning: property 'textView' requires the method 'setTextView:' to be defined - use @synthesize, @dynamic or provide a method implementation

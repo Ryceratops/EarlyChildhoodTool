@@ -8,6 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
+@class MainMenuViewController;
+@class AddStudentViewController;
+@class AddProjectViewController;
+@class EditStudentsViewController;
+
 #define kFileName @"archive"
 #define kDataKey @"Data"
 
@@ -23,5 +28,9 @@
 
 -(NSString *)dataFilePath;
 -(void)applicationWillTerminate:(NSNotification *)notification;
+-(IBAction)gotoAddStudent:(id)sender;
+-(IBAction)gotoMainMenu:(id)sender;
+-(IBAction)gotoAddProject:(id)sender;
+-(IBAction)gotoEditStudents:(id)sender;
 
 @end

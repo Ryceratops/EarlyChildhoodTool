@@ -54,14 +54,14 @@
 
 -(IBAction)addStudent:(id)sender
 {
-	CGRect frame = CGRectMake(10, 10, 100, 30);
+	/*CGRect frame = CGRectMake(10, 10, 100, 30);
 	UIButton *button = [UIButton buttonWithType:UIButtonTypeRoundedRect];
 	button.frame = frame;
 	[button setTitle:(NSString *)@"newButton" forState:(UIControlState)UIControlStateNormal];
 	[button addTarget:self action:@selector(buttonEvent:) forControlEvents:UIControlEventTouchUpInside];
-	[summaryScroll addSubview:button];
+	[summaryScroll addSubview:button];*/
 	
-	/*NSString *title = [sender titleForState:UIControlStateNormal];
+	NSString *title = [sender titleForState:UIControlStateNormal];
 	NSString *newText = [[NSString alloc] initWithFormat:@"%@", title];
 	UILabel *student1 = [[UILabel alloc] initWithFrame:CGRectMake((0 + spacingStudentVariable), 50, 110, 30)];
 	student1.adjustsFontSizeToFitWidth = YES;
@@ -72,7 +72,7 @@
 	[summaryScroll addSubview:student1];
 	spacingStudentVariable += 100;
 	[newText release];
-	[student1 release];*/
+	[student1 release];
 }
 
 -(void)buttonEvent:(id)sender
@@ -228,7 +228,7 @@
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
     // Overriden to allow any orientation.
-    return YES;
+    return (interfaceOrientation == UIInterfaceOrientationPortrait);
 }
 
 
